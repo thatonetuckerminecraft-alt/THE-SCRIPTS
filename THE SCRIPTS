@@ -1,0 +1,6 @@
+- Infinite Yield: loadstring(game:HttpGet("https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source", true))()
+- 99 Nights: loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/loader.lua", true))()
+- AIMBOT: loadstring(game:HttpGet("https://raw.githubusercontent.com/blackowl1231/Z3US/refs/heads/main/main.lua"))()
+- N.D.S: loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/KAWAII-AURA/main/kawaii_aura.lua", true))()
+end)
+AT THE CURRENT DATE OF 10/15/2025 THESE SCRIPTS DO INDEED WORK. THEY ARE ESTIMATED TO WORK ANOTHER 1-2 YEARS
